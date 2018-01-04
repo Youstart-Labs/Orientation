@@ -1,4 +1,4 @@
-# List of Require Application
+# List of Required Application
 
 #### Common Application List
  * Git (Windows 10: 2.15.x and Ubuntu 16.0.4: 2.7.4)

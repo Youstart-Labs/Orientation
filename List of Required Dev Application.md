@@ -1,4 +1,4 @@
-# List of Require Developer Application
+# List of Required Developer Application
 
  * Mongo DB
  * Robomongo
